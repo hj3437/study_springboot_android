@@ -9,3 +9,8 @@
 
 ## 이미지
 ![](https://github.com/hj3437/study_springboot_android/blob/main/captures/image.png?raw=true)
+
+
+## REST API URL
+접속시 (heroku free 버전) 약 30초의 시간이 필요 할 수 있습니다. 
+https://desolate-gorge-14146.herokuapp.com/user/readUserList
