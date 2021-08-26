@@ -10,10 +10,10 @@ class UserController {
     val users = mutableListOf<User>()
 
     init {
-        users.add(User(1, "뽀로로", "펭귄"))
-        users.add(User(2, "크롱", "공룡"))
-        users.add(User(3, "에디", "여우"))
-        users.add(User(4, "패티", "비버"))
+        users.add(User(1, "사과", "빨강"))
+        users.add(User(2, "사과", "파랑"))
+        users.add(User(3, "바나나", "노랑"))
+        users.add(User(4, "딸기", "빨강"))
     }
 
     @GetMapping("user/readUserList")
