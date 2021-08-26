@@ -2,6 +2,10 @@
 
 ## 소개
 안드로이드 화면에서 rest api를 가지고와 화면에 보여주는 기능 
+  
+### Repo구조
+TestNetwork : 안드로이드 파일  
+kotlin_gradle_demo_spring_rest : 스프링부트 파일  
 
 ## 간략과정
 1. 스프링부트로 만든 REST API를 헤로쿠(PaaS)로 배포
